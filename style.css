@@ -1,0 +1,19 @@
+.center {
+    margin-top: 100px;
+    border: solid black 1px;
+    padding: 300px;
+    background-color: lightgray;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+  body {
+      background-image: url(./assets/spikes.png);
+  }
