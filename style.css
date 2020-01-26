@@ -37,3 +37,16 @@
     font-size: 20px;
 
   }
+
+  .fonz {
+
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    padding: 40px;
+
+  }
+
+  .paddit {
+      padding: 20px;
+  }
